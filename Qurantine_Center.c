@@ -1,3 +1,4 @@
+//This program uses conio.h so make sure your compiler supports conio.h
 #include <stdio.h>
 #include <stdlib.h>//to use exit()
 #include <conio.h>//to use getch(), clrscr()
