@@ -4,7 +4,9 @@ Due to COVID-19, the district administration of Cachar, Assam has setup a quaran
 The quarantine facility at NIT Silchar can accommodate a maximum of 500 people.
 As per the district administration, only the flight bound male-passengers without any accompanying children 
 arriving at Silchar airport will likely to be quarantined for 14 days.
-Each quarantined person will be allotted a single room for his stay at the quarantine centre for the said period. All the rooms in the quarantined centre are single occupancy and the rooms are numbered from 89 to 411. Once the quarantined period is over, a quarantined person(s) are discharged from the quarantine centre after vacating his room. 
+Each quarantined person will be allotted a single room for his stay at the quarantine centre for the said period.
+All the rooms in the quarantined centre are single occupancy and the rooms are numbered from 89 to 411.
+Once the quarantined period is over, a quarantined person(s) are discharged from the quarantine centre after vacating his room. 
 So, the figure of occupied roomskeeps on changing after a certain period of time.
 Subject to the availability of rooms in the quarantine centre, district administration allows a limited no. of passengers to the said facility. 
 So, each day a limited no. of passengers are directed to the quarantine facility at NIT Silchar.
